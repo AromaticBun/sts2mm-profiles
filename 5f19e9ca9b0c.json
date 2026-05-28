@@ -1,0 +1,669 @@
+{
+  "name": "Lewd Mod pack",
+  "game_version": null,
+  "created_by": "AromaticBun",
+  "mods": [
+    {
+      "name": "Acheron",
+      "version": "v0.4.4",
+      "source": null,
+      "hash": "5893f014570c6c739622c7d97ab78d9c618e58d612a4a05571fc82931089167e",
+      "files": [
+        "Acheron\\Acheron.dll",
+        "Acheron\\Acheron.json",
+        "Acheron\\Acheron.pck"
+      ],
+      "folder_name": "Acheron",
+      "mod_id": "Acheron",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_49f05865.zip",
+      "bundle_sha256": "49f05865ae6d596d8ade296f4f878e6f8454a32d180a341b0bd593e1013bf220"
+    },
+    {
+      "name": "AncientWaifus",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "aaed46f9a90c9d8db9e2b9976f924bf0df75ff3f727b27825bf8f0738c16e1c7",
+      "files": [
+        "AncientWaifus\\AncientWaifus.dll",
+        "AncientWaifus\\AncientWaifus.json",
+        "AncientWaifus\\AncientWaifus.pck"
+      ],
+      "folder_name": "AncientWaifus",
+      "mod_id": "AncientWaifus",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_478edfb0.zip",
+      "bundle_sha256": "478edfb01e45603fd5781de5d758bdfacaf1d2cdf8e583666b7c2e95790d2a73"
+    },
+    {
+      "name": "Ascender's Sandbox",
+      "version": "v1.1.1",
+      "source": null,
+      "hash": "7f06fd24bbc4259b94e3fa2d0ed041f4fa984cae06d5394d99fa1274d380f75d",
+      "files": [
+        "Ascenders Sandbox\\Ascenders Sandbox.dll",
+        "Ascenders Sandbox\\Ascenders Sandbox.json",
+        "Ascenders Sandbox\\config.json",
+        "Ascenders Sandbox\\lang\\de.json",
+        "Ascenders Sandbox\\lang\\en.json",
+        "Ascenders Sandbox\\lang\\es-419.json",
+        "Ascenders Sandbox\\lang\\es.json",
+        "Ascenders Sandbox\\lang\\fr.json",
+        "Ascenders Sandbox\\lang\\it.json",
+        "Ascenders Sandbox\\lang\\ja.json",
+        "Ascenders Sandbox\\lang\\ko.json",
+        "Ascenders Sandbox\\lang\\pl.json",
+        "Ascenders Sandbox\\lang\\pt-BR.json",
+        "Ascenders Sandbox\\lang\\ru.json",
+        "Ascenders Sandbox\\lang\\th.json",
+        "Ascenders Sandbox\\lang\\tr.json",
+        "Ascenders Sandbox\\lang\\zh.json"
+      ],
+      "folder_name": "Ascenders Sandbox",
+      "mod_id": "Ascenders Sandbox",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Ascender.s_Sandbox_v1.1.1_8b252dc0.zip",
+      "bundle_sha256": "8b252dc08f402dd9ab8bafa8508eda891c9f2efec27319cc68ae188489ac75da"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.1.8",
+      "source": null,
+      "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_4a3f4b09.zip",
+      "bundle_sha256": "4a3f4b09f36069ba05cae18743e2a240ad78e4488ffc766e35d828a006d4817f"
+    },
+    {
+      "name": "Booba Necrobinder Mod",
+      "version": "v1.0.7",
+      "source": null,
+      "hash": "9b95a3c4635a5e2b51e963314435d0f8cf35f1ced22b213d87e82797f533cde0",
+      "files": [
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.dll",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.json",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.pck"
+      ],
+      "folder_name": "Booba-Necrobinder-Mod",
+      "mod_id": "Booba-Necrobinder-Mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_a3433e6d.zip",
+      "bundle_sha256": "a3433e6d221f7716918ede55c0dff406ac00d4ecc845bf4e8ecfa0a5866e0c88"
+    },
+    {
+      "name": "Card Art Editor",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "7ccd49c05613a3f5af481ba341af1786946248eb4e6ea98204930f601bd274a2",
+      "files": [
+        "card_art_editor\\card_art_editor.dll",
+        "card_art_editor\\card_art_editor.pck",
+        "card_art_editor\\manifest.json"
+      ],
+      "folder_name": "card_art_editor",
+      "mod_id": "card_art_editor",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Card_Art_Editor_v0.1.0_eb9acf37.zip",
+      "bundle_sha256": "eb9acf37ba3ef699ab5919a6a13d6b1d3d36f553830dce2dc03df8abd208c67b"
+    },
+    {
+      "name": "Card Editor",
+      "version": "2.8",
+      "source": null,
+      "hash": "1be33ed9778dcaeb36a00bf77302ed473f978d50d79175c5d6740df5f287e7c0",
+      "files": [
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\accuracy.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\acrobatics.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\adrenaline.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\after_image.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\apotheosis.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\apparition.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\ascenders_bane.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\barricade.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\bash.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\battle_trance.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\biased_cognition.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\blade_dance.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\blasphemy.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\body_slam.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\burn.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\calculated_gamble.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\carve_reality.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\catalyst.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\conclude.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\conjure_blade.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\corruption.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\curse_of_the_bell.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\cut_through_fate.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\dazed.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\defend.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\defend_Ironclad.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\defend_Silent.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\defend_Watcher.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\demon_form.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\deva_form.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\dualcast.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\echo_form.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\empty_body.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\empty_fist.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\empty_mind.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\eruption.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\eviscerate.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\fear_no_evil.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\feed.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\fiend_fire.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\flurry_of_blows.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\grand_finale.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\impervious.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\inner_peace.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\leg_sweep.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\lessons_learned.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\limit_break.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\mental_fortress.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\miracle.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\neutralize.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\offering.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\power_through.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\prepared.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\put_your_images_here.txt",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\reaper.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\reflex.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\rushdown.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\scrawl.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\second_wind.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\shiv.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\slimed.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\strike_Defect.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\strike_Ironclad.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\strike_Silent.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\strike_Watcher.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\survivor.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\tactician.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\tantrum.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\terror.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\vault.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\vigilance.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\wallop.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\wound.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\wraith_form.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card art\\zap.png",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card_editor.dll",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card_editor.json",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card_editor.pck",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\card_editor.pdb",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\CHANGELOG.txt",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\localization\\eng\\extensions.json",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\localization\\eng\\settings_ui.json",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\localization\\zhs\\extensions.json",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\localization\\zhs\\settings_ui.json",
+        "Mintskin_Card editor and Creator-69-3-4-1775350757\\README.txt"
+      ],
+      "folder_name": "Mintskin_Card editor and Creator-69-3-4-1775350757",
+      "mod_id": "card_editor",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Card_Editor_v2.8_88f30625.zip",
+      "bundle_sha256": "88f306254481055ad79343f14f67a07bdcd96abff2954f9f721321dceb226678"
+    },
+    {
+      "name": "Chizuru Ironclad Skin",
+      "version": "v0.3.0",
+      "source": null,
+      "hash": "bf190c7429123d0807623a3ea58529b7310dd59806a37f037cb8acce8934fa28",
+      "files": [
+        "ChizuruIroncladSkin\\ChizuruIroncladSkin.dll",
+        "ChizuruIroncladSkin\\ChizuruIroncladSkin.json",
+        "ChizuruIroncladSkin\\ChizuruIroncladSkin.pck"
+      ],
+      "folder_name": "ChizuruIroncladSkin",
+      "mod_id": "ChizuruIroncladSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Chizuru_Ironclad_Skin_v0.3.0_a46ca7e8.zip",
+      "bundle_sha256": "a46ca7e8f7601d3839958cbed3acef0881e0793ddc19c587b4dacc7bc89f14d6"
+    },
+    {
+      "name": "Codex Endless Mode",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "52a9739fdd55f26032f3b73013520384b2cf07dc53dfc18657995ed65d9bc800",
+      "files": [
+        "Endless Infinite Mode\\codex.sts2.endlessmode.config",
+        "Endless Infinite Mode\\codex.sts2.endlessmode.dll",
+        "Endless Infinite Mode\\codex.sts2.endlessmode.json"
+      ],
+      "folder_name": "Endless Infinite Mode",
+      "mod_id": "codex.sts2.endlessmode",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.1.0_4260bf31.zip",
+      "bundle_sha256": "4260bf31019f25f4452b34e8bd6b9177cdc4da22c6d66ad74777076af5bcc4a8"
+    },
+    {
+      "name": "DarakuGearmod",
+      "version": "v0.0.6a",
+      "source": null,
+      "hash": "04c29ab5fc0144b0f7e902787e0c22eab290704f6e227b563fdeec8f9a93cd6e",
+      "files": [
+        "DarakuGearmod\\DarakuGearmod.dll",
+        "DarakuGearmod\\DarakuGearmod.json",
+        "DarakuGearmod\\DarakuGearmod.pck",
+        "DarakuGearmod\\DarakuGearmod.pdb"
+      ],
+      "folder_name": "DarakuGearmod",
+      "mod_id": "DarakuGearmod",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/DarakuGearmod_v0.0.6a_f70b2e00.zip",
+      "bundle_sha256": "f70b2e0044e40004726186c8dd4b44ccc62c51be24d57e6b0d416f1a26bd509b"
+    },
+    {
+      "name": "DefectSkin_AD",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "d963c649bb3a7275e28286e42a89f75340f75a9074f57001e8b62712aa301261",
+      "files": [
+        "DefectSkin_AD\\DefectSkin_AD.dll",
+        "DefectSkin_AD\\DefectSkin_AD.json",
+        "DefectSkin_AD\\DefectSkin_AD.pck"
+      ],
+      "folder_name": "DefectSkin_AD",
+      "mod_id": "DefectSkin_AD",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_ffc6f4d0.zip",
+      "bundle_sha256": "ffc6f4d0d297af3da92af7c23b588005f64798f196cc4925176c605867ca14c4"
+    },
+    {
+      "name": "Kafka",
+      "version": "v0.12.2",
+      "source": null,
+      "hash": "3fe3981e68f9acc3066e46f0ca9885713f1a85a9347c2365fe3a40361e8194ac",
+      "files": [
+        "Kafka\\Kafka.dll",
+        "Kafka\\Kafka.json",
+        "Kafka\\Kafka.pck"
+      ],
+      "folder_name": "Kafka",
+      "mod_id": "Kafka",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_f5a2589f.zip",
+      "bundle_sha256": "f5a2589f721e72dd61ef99d997f9678512c2750efd98867f4d24a75fb7e5dd8c"
+    },
+    {
+      "name": "KaguyaRegentMSGKSkin",
+      "version": "v0.2.3",
+      "source": null,
+      "hash": "ce9b5473d9040e953f36f10e1e635cf3544ed2619a87881c44fc8fbac21d8cdb",
+      "files": [
+        "RegentSkinMod\\KaguyaRegentMSGKSkin.dll",
+        "RegentSkinMod\\KaguyaRegentMSGKSkin.json",
+        "RegentSkinMod\\KaguyaRegentMSGKSkin.pck"
+      ],
+      "folder_name": "RegentSkinMod",
+      "mod_id": "KaguyaRegentMSGKSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/KaguyaRegentMSGKSkin_v0.2.3_ea3a65c0.zip",
+      "bundle_sha256": "ea3a65c0aad172c98895c428b8e53d938ba4229f5dc66914fecb16b8dd204237"
+    },
+    {
+      "name": "KoishiAncient",
+      "version": "v1.1.1",
+      "source": null,
+      "hash": "15a2de1041f72dc17adc09511af1219bbcfe6f52e3d1d7ecf1f6f4bdfbad7496",
+      "files": [
+        "KoishiAncient\\KoishiAncient.dll",
+        "KoishiAncient\\KoishiAncient.json",
+        "KoishiAncient\\KoishiAncient.pck"
+      ],
+      "folder_name": "KoishiAncient",
+      "mod_id": "KoishiAncient",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/KoishiAncient_v1.1.1_70c6e8a2.zip",
+      "bundle_sha256": "70c6e8a20767f4fa65a30a09a9b4e52de8ec658f4c4d4f7e15012432f055a92d"
+    },
+    {
+      "name": "LustTravel2",
+      "version": "0.13.1",
+      "source": null,
+      "hash": "bc7c6a374e5b5e7e54fa30342bed13a6528297eed47138a7b3c783b2d3bd6cd7",
+      "files": [
+        "LustTravel2\\LustTravel2.dll",
+        "LustTravel2\\LustTravel2.pck",
+        "LustTravel2\\mod_manifest.json"
+      ],
+      "folder_name": "LustTravel2",
+      "mod_id": "LustTravel2",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/LustTravel2_v0.13.1_832bcfe7.zip",
+      "bundle_sha256": "832bcfe7361033071d30808416321b5fcdda14a69bd977c3e151563b491fbba3"
+    },
+    {
+      "name": "LustTravel2 Patch",
+      "version": "0.10.5",
+      "source": null,
+      "hash": "fbe7ab2a520507917acdc5c752c438c4b22a2cf6d0fa6cb3d9201dd50851e7c0",
+      "files": [
+        "LustTravel2_Patch\\LustTravel2_Patch.dll",
+        "LustTravel2_Patch\\LustTravel2_Patch.pck",
+        "LustTravel2_Patch\\mod_manifest.json"
+      ],
+      "folder_name": "LustTravel2_Patch",
+      "mod_id": "LustTravel2_Patch",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/LustTravel2_Patch_v0.10.5_20c1a3e5.zip",
+      "bundle_sha256": "20c1a3e5f62309c50fd8339c49cb43566a5c61ce533394978d80329ed992eac9"
+    },
+    {
+      "name": "Merchant2CuteII",
+      "version": "v1.4.1",
+      "source": null,
+      "hash": "e73e7d509d70e186395dd7514b5fc80f47e260533ebba97656d3f991ce0de059",
+      "files": [
+        "Merchant2CuteII\\Merchant2CuteII.dll",
+        "Merchant2CuteII\\Merchant2CuteII.json",
+        "Merchant2CuteII\\Merchant2CuteII.pck"
+      ],
+      "folder_name": "Merchant2CuteII",
+      "mod_id": "Merchant2CuteII",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Merchant2CuteII_v1.4.1_cd085461.zip",
+      "bundle_sha256": "cd085461f62a73bdeaf835436ffc426d5ddbd81b7744fcb0819f340c05b886ca"
+    },
+    {
+      "name": "MinionLib",
+      "version": "0.3.5",
+      "source": null,
+      "hash": "74c3496337c80353b4826210f350aaaf1be867306b29156868fb6c344b44194a",
+      "files": [
+        "MinionLib\\MinionLib.dll",
+        "MinionLib\\MinionLib.json",
+        "MinionLib\\MinionLib.pck"
+      ],
+      "folder_name": "MinionLib",
+      "mod_id": "MinionLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/MinionLib_v0.3.5_8b8e1b79.zip",
+      "bundle_sha256": "8b8e1b7998c22faaec9cd1544c99ccf3416687662d975fbe240cdd5ab26cb2fe"
+    },
+    {
+      "name": "MoreCharacterFX",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "c0c409bf440c9f73e80dde18bb6178db0ac59238d51c6ebc6300bc7f6ee97db3",
+      "files": [
+        "MoreCharacterFX\\MoreCharacterFX.dll",
+        "MoreCharacterFX\\MoreCharacterFX.json",
+        "MoreCharacterFX\\MoreCharacterFX.pck"
+      ],
+      "folder_name": "MoreCharacterFX",
+      "mod_id": "MoreCharacterFX",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/MoreCharacterFX_v0.0.1_d57b0435.zip",
+      "bundle_sha256": "d57b0435b9ad5bf11d50e48d10be47f77f044f87debca7af314d2dd30d9d30f5"
+    },
+    {
+      "name": "MultiEnchantmentMod",
+      "version": "v2.2.5",
+      "source": null,
+      "hash": "40bbbbbe3049d3ae682b934ba8577c67e7e746d66b7a517751b44764ba2b45b2",
+      "files": [
+        "MultiEnchantmentMod\\MultiEnchantmentMod.dll",
+        "MultiEnchantmentMod\\MultiEnchantmentMod.json",
+        "MultiEnchantmentMod\\MultiEnchantmentMod.pck"
+      ],
+      "folder_name": "MultiEnchantmentMod",
+      "mod_id": "MultiEnchantmentMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.2.5_4461ac63.zip",
+      "bundle_sha256": "4461ac63267d23f90280697373ce68b78e29c3a51f3354ccac3b862838547b3b"
+    },
+    {
+      "name": "neowSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "00b3f3d0e6a325d7b513833d83079cbe70f133a64f0726810e398360ff31ed5b",
+      "files": [
+        "neowSkin\\neowSkin.pck",
+        "neowSkin\\neowSkinmod_manifest.json",
+        "neowSkin\\美术版权说明.txt"
+      ],
+      "folder_name": "neowSkin",
+      "mod_id": "neowSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_d7f21fe1.zip",
+      "bundle_sha256": "d7f21fe1f01672f9c7dc01feede9f09cd2aa084c975017e5a5fe2a543bedba6c"
+    },
+    {
+      "name": "New Game +",
+      "version": "v1.110",
+      "source": null,
+      "hash": "c030f223413538afad2a36e91452caab20bc3a22505c468d3c405c5f8540e5d7",
+      "files": [
+        "NewGamePlus\\NewGamePlus.dll",
+        "NewGamePlus\\NewGamePlus.json",
+        "NewGamePlus\\sentry-reports.log"
+      ],
+      "folder_name": "NewGamePlus",
+      "mod_id": "NewGamePlus",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/New_Game___v1.110_42bb29dd.zip",
+      "bundle_sha256": "42bb29ddf056a8be0b79ec0897eaf013f2c4d36c2e2639630e29679fcdc18cfc"
+    },
+    {
+      "name": "PaelGirl",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "d2201f5758544800a679ba8bd10cfe88cf4212e4fadc36dea484a023e1ff730d",
+      "files": [
+        "PaelGirl\\PaelGirl.dll",
+        "PaelGirl\\PaelGirl.json",
+        "PaelGirl\\PaelGirl.pck"
+      ],
+      "folder_name": "PaelGirl",
+      "mod_id": "PaelGirl",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/PaelGirl_v0.1.0_cf26d6cc.zip",
+      "bundle_sha256": "cf26d6cc3f5a69350c9d89b27f929dbbae8ba9558f9d3a3c233a7241c03e1ab2"
+    },
+    {
+      "name": "Princess",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "b0cf0c0dc43713605797781826c9f8b810fbadd43c4d91365d29dde3ca25b57b",
+      "files": [
+        "Princess\\Princess.dll",
+        "Princess\\Princess.json",
+        "Princess\\Princess.pck",
+        "Princess\\Princess.pdb"
+      ],
+      "folder_name": "Princess",
+      "mod_id": "Princess",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_52967ab5.zip",
+      "bundle_sha256": "52967ab5be7665b00cd601d7965ec2645d87e4a27151b13bad7bd1dbed51ac76"
+    },
+    {
+      "name": "RitsuLib (STS2 0.103.2 compat)",
+      "version": "0.3.5",
+      "source": null,
+      "hash": "105f12e5f50e4120be367ddee74469689e8996ba7c9a3b41ad25cb9267881542",
+      "files": [
+        "STS2-RitsuLib\\compat-target.txt",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\STS2-RitsuLib.xml"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.5_50f0ec5f.zip",
+      "bundle_sha256": "50f0ec5fc26095b10163c7a4b2c623093a659f3c0c83af3ba91be1839d15be6c"
+    },
+    {
+      "name": "Start With Orobas",
+      "version": "0.3",
+      "source": null,
+      "hash": "f90e572d6b6b00595b033a789803d1d322e04b5f5177d9c95fe8463ba5f7d802",
+      "files": [
+        "StartWithOrobas\\StartWithOrobas.dll",
+        "StartWithOrobas\\StartWithOrobas.json"
+      ],
+      "folder_name": "StartWithOrobas",
+      "mod_id": "StartWithOrobas",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Start_With_Orobas_v0.3_1ceb4586.zip",
+      "bundle_sha256": "1ceb45865635a8c27692bd1843c45d0e67c485bd0b91ce1dff84e1901c49ac03"
+    },
+    {
+      "name": "STS2_BlackedCard",
+      "version": "1.0",
+      "source": null,
+      "hash": "98c3d4bc168536a836b1e89575c70eba739be3dc9d52dff0fe5807d0f8697bf3",
+      "files": [
+        "STS2_BlackedCard\\cover.jpg",
+        "STS2_BlackedCard\\STS2_BlackedCard.dll",
+        "STS2_BlackedCard\\STS2_BlackedCard.json",
+        "STS2_BlackedCard\\STS2_BlackedCard.pck"
+      ],
+      "folder_name": "STS2_BlackedCard",
+      "mod_id": "STS2_BlackedCard",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/STS2_BlackedCard_v1.0_cb9a22b0.zip",
+      "bundle_sha256": "cb9a22b04a128e6af375d35325eac8aa8aa78dc982a7a84dad95be3926f06d31"
+    },
+    {
+      "name": "STS2BlackedEvevt",
+      "version": "v0.0.0",
+      "source": null,
+      "hash": "b8fc4ab0b929988ef33cbc3868d93eb7cc8bbf65f310a520ce0420a03c6dde6d",
+      "files": [
+        "STS2BlackedEvevt\\STS2BlackedEvevt.dll",
+        "STS2BlackedEvevt\\STS2BlackedEvevt.json",
+        "STS2BlackedEvevt\\STS2BlackedEvevt.pck"
+      ],
+      "folder_name": "STS2BlackedEvevt",
+      "mod_id": "STS2BlackedEvevt",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/STS2BlackedEvevt_v0.0.0_ff284c74.zip",
+      "bundle_sha256": "ff284c7467d6f39bbd4a8137779d91666600e6bb8bacebb17fac8a13d22a14ab"
+    },
+    {
+      "name": "Tressa Silent Skin",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "32d764cc6de0027dbec7d3dfbb0624a8c5d84e682eaf82c9976c1139aafe90da",
+      "files": [
+        "TressaSilentSkin\\TressaSilentSkin.dll",
+        "TressaSilentSkin\\TressaSilentSkin.json",
+        "TressaSilentSkin\\TressaSilentSkin.pck"
+      ],
+      "folder_name": "TressaSilentSkin",
+      "mod_id": "TressaSilentSkin",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Tressa_Silent_Skin_v0.1.0_826058d5.zip",
+      "bundle_sha256": "826058d5344f05e117cf214b5f4f6bc9f7402539dc2b282b50bd952a7bbeaa07"
+    },
+    {
+      "name": "Watcher",
+      "version": "v1.4.3",
+      "source": null,
+      "hash": "5d9d2852d229e062aea00b82fcc704042a9d972086b748e3a4e45b76b2894942",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_3939327e.zip",
+      "bundle_sha256": "3939327eee24a66439b478ad32679d35e43a601a7fd023ed90b473db0e64e5b0"
+    },
+    {
+      "name": "Watcher Feminized",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "775512650ed0cb4c681c1c754f175271c884990197267e44674da0bb5ecced8f",
+      "files": [
+        "watcherFeminized\\watcherFeminized.json",
+        "watcherFeminized\\watcherFeminized.pck"
+      ],
+      "folder_name": "watcherFeminized",
+      "mod_id": "watcherFeminized",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Watcher_Feminized_v1.0.0_b8fcb59b.zip",
+      "bundle_sha256": "b8fcb59bbd74b942745bef65bc9b003aad4f33530076273fcb0b58e36318c05a"
+    },
+    {
+      "name": "xueliMod-main",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "ab56804876026d2f742364d83005cf8b3c81f1c4f3ebe9041d63089c05e757ea",
+      "files": [
+        "xueli\\xueli.dll",
+        "xueli\\xueli.json",
+        "xueli\\xueli.pck"
+      ],
+      "folder_name": "xueli",
+      "mod_id": "xueli",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/xueliMod-main_v1.0.0_475f0537.zip",
+      "bundle_sha256": "475f053716d7b184f9a1fef50443c655f22c7d457cace08329b054c7fde28749"
+    },
+    {
+      "name": "塔1BOSS先古之民",
+      "version": "1.1",
+      "source": null,
+      "hash": "c0210106dde496bd9cda54b68b7c720f2d933e24ed0620f0304a960fb96cb61b",
+      "files": [
+        "SlayTheSpireBossAncients\\StsBossAncients.dll",
+        "SlayTheSpireBossAncients\\StsBossAncients.json",
+        "SlayTheSpireBossAncients\\StsBossAncients.pck"
+      ],
+      "folder_name": "SlayTheSpireBossAncients",
+      "mod_id": "StsBossAncients",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/1BOSS._v1.1_7cb87a8c.zip",
+      "bundle_sha256": "7cb87a8c9bff799e4577359c8dd9144d5c074a386dd189f06749ec26290c28fd"
+    },
+    {
+      "name": "帕秋莉库",
+      "version": "1.6",
+      "source": null,
+      "hash": "6a7697ca71ecd546d39d32c44c3a077036179e55e57e901753aa66d12b40f8d9",
+      "files": [
+        "Patchoulib\\Patchoulib.dll",
+        "Patchoulib\\Patchoulib.json",
+        "Patchoulib\\Patchoulib.pck"
+      ],
+      "folder_name": "Patchoulib",
+      "mod_id": "Patchoulib",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/_v1.6_b20f808c.zip",
+      "bundle_sha256": "b20f808c2ebe251f0fab39ad164c91ba3985c21855348cf181dfc00d1907e169"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_9c316cbc.zip",
+      "bundle_sha256": "9c316cbc335c2b0f17bf7eb0e9507fcfc88cf51654e0cd30db4ce03813f1930d"
+    }
+  ],
+  "created_at": "2026-05-28T17:45:17.209335100Z",
+  "updated_at": "2026-05-28T17:45:17.209335100Z",
+  "public": true
+}
