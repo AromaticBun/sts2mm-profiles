@@ -16,8 +16,8 @@
       "folder_name": "Acheron",
       "mod_id": "Acheron",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_11cfd1f2.zip",
-      "bundle_sha256": "11cfd1f2f86053cd7b3bff54ad0497bfcb399a2e968098d70fba61161cddffb8"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_4d97a0c6.zip",
+      "bundle_sha256": "4d97a0c6a7b803872c7961c476a08fac8a5c1d7454b7d182a02cd48c9277ca32"
     },
     {
       "name": "AncientWaifus",
@@ -32,8 +32,8 @@
       "folder_name": "AncientWaifus",
       "mod_id": "AncientWaifus",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_34832eeb.zip",
-      "bundle_sha256": "34832eebec5ddb9fba03bfde751f520af0008fa29d6d302d72bb85a032521c76"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_adc14ce7.zip",
+      "bundle_sha256": "adc14ce700fe841dbc202bdec2fb4f7f0187d07556fc7cc4cb781982dce2ac05"
     },
     {
       "name": "Ascender's Sandbox",
@@ -62,8 +62,8 @@
       "folder_name": "Ascenders Sandbox",
       "mod_id": "Ascenders Sandbox",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Ascender.s_Sandbox_v1.1.1_8b3e1103.zip",
-      "bundle_sha256": "8b3e11037cab9c3f3b087d9701ee607c4f666e76ea427a16c88fabb052e8227e"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Ascender.s_Sandbox_v1.1.1_2ab1cf14.zip",
+      "bundle_sha256": "2ab1cf149d1a0e8ced972a252bab56cd60932ea5ad0f6c1b7ae41c2778099863"
     },
     {
       "name": "BaseLib",
@@ -78,8 +78,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_bb26f098.zip",
-      "bundle_sha256": "bb26f098ed91f2d2f8375df3e8a90b114d19966b0e951403038163953b749934"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_ad80b54b.zip",
+      "bundle_sha256": "ad80b54bf5805316c81065851b0e232ee56e5c84930519a19ed5e509a26bb9f0"
     },
     {
       "name": "Booba Necrobinder Mod",
@@ -94,8 +94,8 @@
       "folder_name": "Booba-Necrobinder-Mod",
       "mod_id": "Booba-Necrobinder-Mod",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_c73cb07c.zip",
-      "bundle_sha256": "c73cb07ce42b843645fba072dc82f5809edada219df53405c900630118e2da81"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_9673addd.zip",
+      "bundle_sha256": "9673addd889c9b85e6eb2c3cd4a519952fa3689bdf060e1977c658e26a8352b4"
     },
     {
       "name": "Card Art Editor",
@@ -110,8 +110,8 @@
       "folder_name": "card_art_editor",
       "mod_id": "card_art_editor",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Card_Art_Editor_v0.1.0_17589f16.zip",
-      "bundle_sha256": "17589f16d04e03dfc4ada5e29f7f13503dda917266cf3599715b6e3231bc1306"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Card_Art_Editor_v0.1.0_c50ab027.zip",
+      "bundle_sha256": "c50ab02714f3cf53a77b95c1d8d56cdfcaa2f9d5e5774f45d48b318cdd6ceecc"
     },
     {
       "name": "Card Editor",
@@ -208,8 +208,8 @@
       "folder_name": "Mintskin_Card editor and Creator-69-3-4-1775350757",
       "mod_id": "card_editor",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Card_Editor_v2.8_98afebcc.zip",
-      "bundle_sha256": "98afebcc25b68e487c85165d80944deb9ac9044c59ed27aec48f6c762f9e17d5"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Card_Editor_v2.8_7ae2f887.zip",
+      "bundle_sha256": "7ae2f887a98043dd6ee2ab88a7e814c540db4e6fa61f93f4e956d87b77675cbb"
     },
     {
       "name": "Chizuru Ironclad Skin",
@@ -224,8 +224,8 @@
       "folder_name": "ChizuruIroncladSkin",
       "mod_id": "ChizuruIroncladSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Chizuru_Ironclad_Skin_v0.3.0_5899df97.zip",
-      "bundle_sha256": "5899df97ac0a5c6ee03fd5bbf3c59a13e24c09a1cbeb0b3a831bdb6a5f806f55"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Chizuru_Ironclad_Skin_v0.3.0_e0ab5c4e.zip",
+      "bundle_sha256": "e0ab5c4ed716b09eb087eb6860969f2b8c43ca476b7c8a0cbfa8196a5681d621"
     },
     {
       "name": "Codex Endless Mode",
@@ -240,8 +240,8 @@
       "folder_name": "Endless Infinite Mode",
       "mod_id": "codex.sts2.endlessmode",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.1.0_e37ca7ae.zip",
-      "bundle_sha256": "e37ca7ae1cf8bd8d340455fea262ff89a82970527f160d6e80d21606fb5c7867"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.1.0_74437f84.zip",
+      "bundle_sha256": "74437f84f258069aab0214c912b2e607e9d8044ea8f0ce54df28e50fd296bc7d"
     },
     {
       "name": "DarakuGearmod",
@@ -257,8 +257,8 @@
       "folder_name": "DarakuGearmod",
       "mod_id": "DarakuGearmod",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/DarakuGearmod_v0.0.6a_76ca6287.zip",
-      "bundle_sha256": "76ca6287f4d8adebfaf203c48b05777ce371de6dd8a57d78edd17dd115f4465d"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/DarakuGearmod_v0.0.6a_262ddd0c.zip",
+      "bundle_sha256": "262ddd0c008f1a43503d9ce0f93b49f9b3c61acdf67c9b8a3f772f88a9dc7703"
     },
     {
       "name": "DefectSkin_AD",
@@ -273,8 +273,8 @@
       "folder_name": "DefectSkin_AD",
       "mod_id": "DefectSkin_AD",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_322e496d.zip",
-      "bundle_sha256": "322e496d59c7c2eda792c61c1bcbc0706b11fe0ccca5b190339909c78df95eb3"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_34e68bdd.zip",
+      "bundle_sha256": "34e68bdd4654148ed2d2f53ba2cd88ff8c3477ba9b7ce713a5224cc67c89fbb4"
     },
     {
       "name": "Kafka",
@@ -289,8 +289,8 @@
       "folder_name": "Kafka",
       "mod_id": "Kafka",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_9806b5cd.zip",
-      "bundle_sha256": "9806b5cd680916f3d42e0270413324e43ebf2c5241e65bdad76e97e6c786f721"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_de920656.zip",
+      "bundle_sha256": "de9206560611deedcda3dc4df3db1ba41b8a3f1050531dcc535ec26ae89b4244"
     },
     {
       "name": "KaguyaRegentMSGKSkin",
@@ -305,8 +305,8 @@
       "folder_name": "RegentSkinMod",
       "mod_id": "KaguyaRegentMSGKSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/KaguyaRegentMSGKSkin_v0.2.3_61e1179e.zip",
-      "bundle_sha256": "61e1179e9cb8acfc77a4320a4e67ea89e37dc689b547aa07c0b83e8101cc9aa6"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/KaguyaRegentMSGKSkin_v0.2.3_04110dbe.zip",
+      "bundle_sha256": "04110dbe7afe47087ef2f34b3ebfc9056ada0442a0c36242cec9fad24f392a0d"
     },
     {
       "name": "KoishiAncient",
@@ -321,8 +321,8 @@
       "folder_name": "KoishiAncient",
       "mod_id": "KoishiAncient",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/KoishiAncient_v1.1.1_b2f1b208.zip",
-      "bundle_sha256": "b2f1b2085e93a7fdf127c3da3dfa51d20af8269ee3c4a5d874444502bb4454b0"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/KoishiAncient_v1.1.1_925e8cb4.zip",
+      "bundle_sha256": "925e8cb415356b83de667f83b5281a07bfe3ffd157153e0036ce03671a1b042a"
     },
     {
       "name": "LustTravel2",
@@ -337,8 +337,8 @@
       "folder_name": "LustTravel2",
       "mod_id": "LustTravel2",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/LustTravel2_v0.13.1_58876808.zip",
-      "bundle_sha256": "5887680822dcc9a471a22939116525ec29d7de4e5c560cd1f7bdf2a73b6fa525"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/LustTravel2_v0.13.1_e8c3feba.zip",
+      "bundle_sha256": "e8c3feba5abf88c81daba82783fd1c5002e4846daca134f922640886f2a93987"
     },
     {
       "name": "LustTravel2 Patch",
@@ -353,8 +353,8 @@
       "folder_name": "LustTravel2_Patch",
       "mod_id": "LustTravel2_Patch",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/LustTravel2_Patch_v0.10.5_3c331b4f.zip",
-      "bundle_sha256": "3c331b4f584b0db83c56f6410c2e3673cd459adc285c642592ac268d24b4d9e2"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/LustTravel2_Patch_v0.10.5_266992fe.zip",
+      "bundle_sha256": "266992fe9e33b6233269e6c612af0d2df6871fb07a68e0ce82425b6754f51afb"
     },
     {
       "name": "Merchant2CuteII",
@@ -369,8 +369,8 @@
       "folder_name": "Merchant2CuteII",
       "mod_id": "Merchant2CuteII",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Merchant2CuteII_v1.4.1_683c9655.zip",
-      "bundle_sha256": "683c9655996f8ded91b3a7a7d8da50c097b6f6fde4a14bdc2fa0ff839b170e93"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Merchant2CuteII_v1.4.1_5ae8a19e.zip",
+      "bundle_sha256": "5ae8a19e75f6b6f7825888e1bb58a1c59f01168fdcc0794270dec1fc27c87798"
     },
     {
       "name": "MinionLib",
@@ -385,8 +385,8 @@
       "folder_name": "MinionLib",
       "mod_id": "MinionLib",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/MinionLib_v0.3.5_d8d50c18.zip",
-      "bundle_sha256": "d8d50c18208f039666dd416146cb4097286a62de513d1a972f0bbd6c9cbc8bf8"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/MinionLib_v0.3.5_0c1783ce.zip",
+      "bundle_sha256": "0c1783cedc00bcb081cadbef48ca720353e52d3da3d7d596b23ca4f32920efbd"
     },
     {
       "name": "MoreCharacterFX",
@@ -401,8 +401,8 @@
       "folder_name": "MoreCharacterFX",
       "mod_id": "MoreCharacterFX",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/MoreCharacterFX_v0.0.1_f7ccc6de.zip",
-      "bundle_sha256": "f7ccc6de8becf88649376a2cfadcb8d14ef4f85b41b79d7d2e6ad6349b9ed415"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/MoreCharacterFX_v0.0.1_02910b8a.zip",
+      "bundle_sha256": "02910b8a6911dc55ae4ddd887dd2490a7f495618d0dd1723cb85f056ba19fa8a"
     },
     {
       "name": "MultiEnchantmentMod",
@@ -417,8 +417,8 @@
       "folder_name": "MultiEnchantmentMod",
       "mod_id": "MultiEnchantmentMod",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.2.5_7958ae5a.zip",
-      "bundle_sha256": "7958ae5af6f5f7fffd92f2d5dfb0099abc78fd75016aa16a803dd1bcf63cc2c2"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/MultiEnchantmentMod_v2.2.5_0f677f30.zip",
+      "bundle_sha256": "0f677f30757b792ffa08dfd357ca37ce2ff57aaf11e74fae4320681746f0ff96"
     },
     {
       "name": "neowSkin",
@@ -433,8 +433,8 @@
       "folder_name": "neowSkin",
       "mod_id": "neowSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_35b5bfc9.zip",
-      "bundle_sha256": "35b5bfc90ac70cc872ff3a6f510ba4c5e7c668764eed4b383f77df3a0ae3a750"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_64190ee9.zip",
+      "bundle_sha256": "64190ee9da4c86f8cced51281018183e56ffe984f9821d5eff9e03d4d0eabf3a"
     },
     {
       "name": "New Game +",
@@ -449,8 +449,8 @@
       "folder_name": "NewGamePlus",
       "mod_id": "NewGamePlus",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/New_Game___v1.110_7be3982f.zip",
-      "bundle_sha256": "7be3982f9b4a261879cfb366360c62f8b1e4200147f26a2e56a1425552dd8d4c"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/New_Game___v1.110_105d46f2.zip",
+      "bundle_sha256": "105d46f2cc1d07434d9ee357e87677f8580f9c81d016a565462bd993098b9c58"
     },
     {
       "name": "PaelGirl",
@@ -465,8 +465,8 @@
       "folder_name": "PaelGirl",
       "mod_id": "PaelGirl",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/PaelGirl_v0.1.0_22c6ad74.zip",
-      "bundle_sha256": "22c6ad744f2454f851ee6f5c9d45c812cdfff8948339b2b562ccb2a0dbd38520"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/PaelGirl_v0.1.0_d00eadd5.zip",
+      "bundle_sha256": "d00eadd5915822350b0421c45d59d7cfba20762c3b10259e33f689de84ee5666"
     },
     {
       "name": "Princess",
@@ -482,8 +482,8 @@
       "folder_name": "Princess",
       "mod_id": "Princess",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_1992f5ec.zip",
-      "bundle_sha256": "1992f5ec35c9ad6c990396759128616977a817beba45f44f0d5f0c535e4b1094"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_25d56e97.zip",
+      "bundle_sha256": "25d56e9770354c6359690450f2be87d3d970cfc068f313fad49e30fb371494a5"
     },
     {
       "name": "RitsuLib (STS2 0.103.2 compat)",
@@ -500,8 +500,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.5_51ce80d2.zip",
-      "bundle_sha256": "51ce80d2c9b537c517a0d5220cad5ab2975a2d3c091d084b03570176aef0e73d"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.5_df6980f2.zip",
+      "bundle_sha256": "df6980f230c0e0a7ce8d2d63667aeb5b58a46fec553a5cf5ba4ad6ab371986d6"
     },
     {
       "name": "Start With Orobas",
@@ -515,8 +515,8 @@
       "folder_name": "StartWithOrobas",
       "mod_id": "StartWithOrobas",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Start_With_Orobas_v0.3_3ce54dcb.zip",
-      "bundle_sha256": "3ce54dcb3f81098cbccd1271e6265ab2a55d264618586fb078493d67b6d6b8a1"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Start_With_Orobas_v0.3_3406548a.zip",
+      "bundle_sha256": "3406548aea82fbc5e2c3f17c4b9a61a3d55094ae922cd9d09abd47eb0b9024af"
     },
     {
       "name": "STS2_BlackedCard",
@@ -532,8 +532,8 @@
       "folder_name": "STS2_BlackedCard",
       "mod_id": "STS2_BlackedCard",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/STS2_BlackedCard_v1.0_76092f4f.zip",
-      "bundle_sha256": "76092f4f113d112146c6b795ae0bb76d24d6be91582d40b6e3acb6612f103df8"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/STS2_BlackedCard_v1.0_e50c4efb.zip",
+      "bundle_sha256": "e50c4efb7dd516a3bea0595f4a154ef4292b7f3dbf5e7ef957535c7b23dae006"
     },
     {
       "name": "STS2BlackedEvevt",
@@ -548,8 +548,8 @@
       "folder_name": "STS2BlackedEvevt",
       "mod_id": "STS2BlackedEvevt",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/STS2BlackedEvevt_v0.0.0_7ba83844.zip",
-      "bundle_sha256": "7ba83844281f130d3483a805cee2b42f4a07a8061ef095faa481365efc69d5d0"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/STS2BlackedEvevt_v0.0.0_655f0318.zip",
+      "bundle_sha256": "655f03183fe56ee4aa8f06f16e63edf3dc8278098dd45a1e6db6fefbaf0c9444"
     },
     {
       "name": "Tressa Silent Skin",
@@ -564,8 +564,8 @@
       "folder_name": "TressaSilentSkin",
       "mod_id": "TressaSilentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Tressa_Silent_Skin_v0.1.0_3234c456.zip",
-      "bundle_sha256": "3234c45680395912b7d92b5a63c893e6f0264c9f63b95f43088dbf658fab3005"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Tressa_Silent_Skin_v0.1.0_7c413555.zip",
+      "bundle_sha256": "7c41355598d432cb16605cd7a6fa4afa5f993970b0a07929e1cba8d6efabd16c"
     },
     {
       "name": "Watcher",
@@ -580,8 +580,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_52417e9a.zip",
-      "bundle_sha256": "52417e9a0dc82628d3c0f5c238f4cf781ace9b126b8ac348c5c7366fd8d98a30"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_fc318974.zip",
+      "bundle_sha256": "fc31897461797897fb19574bdb60a47bb95a17f34db9adee5925b6082858520e"
     },
     {
       "name": "Watcher Feminized",
@@ -595,8 +595,8 @@
       "folder_name": "watcherFeminized",
       "mod_id": "watcherFeminized",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Watcher_Feminized_v1.0.0_b5a13b79.zip",
-      "bundle_sha256": "b5a13b79f063efda2c192e31315e14787e91531ec680314eba06aeaff449c702"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/Watcher_Feminized_v1.0.0_0a9fcdde.zip",
+      "bundle_sha256": "0a9fcdde05a34ebc29945b00d0f361a15987fb4e6939f73435e8dc3b51f2dbf2"
     },
     {
       "name": "xueliMod-main",
@@ -611,8 +611,8 @@
       "folder_name": "xueli",
       "mod_id": "xueli",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/xueliMod-main_v1.0.0_7c949283.zip",
-      "bundle_sha256": "7c94928378572790594f5561b0aa614fc67725e5dcc83f5cf8f1cd994b84f723"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/xueliMod-main_v1.0.0_da125064.zip",
+      "bundle_sha256": "da12506458dc1db44aa998df7f508cd5f3fc7683cf7597a4e282147c756aa1e9"
     },
     {
       "name": "塔1BOSS先古之民",
@@ -627,8 +627,8 @@
       "folder_name": "SlayTheSpireBossAncients",
       "mod_id": "StsBossAncients",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/1BOSS._v1.1_4000d381.zip",
-      "bundle_sha256": "4000d381f6f3ba11c2caa8d1e279372514bff0026ebdd97e3385cd77fe46c026"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/1BOSS._v1.1_1784411b.zip",
+      "bundle_sha256": "1784411b8f7d70f13ca48827a701d56b133d8171d7f305eaad8867abdab912d8"
     },
     {
       "name": "帕秋莉库",
@@ -643,8 +643,8 @@
       "folder_name": "Patchoulib",
       "mod_id": "Patchoulib",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/_v1.6_017878d4.zip",
-      "bundle_sha256": "017878d4a6edec4c66d2c18ff097ec73070077783381400db8a330b46a2dda35"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/_v1.6_ca30d732.zip",
+      "bundle_sha256": "ca30d7320eb0e6ee8a460aed1fdebacde50e2406cf6dbfa2ba06a0e7dbcd3397"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -659,8 +659,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_45b6a48e.zip",
-      "bundle_sha256": "45b6a48e72661098df9dd8a2bf7553c46fd28eaa4ddfc21064a8328f2f338d6c"
+      "bundle_url": "https://github.com/AromaticBun/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_fc3ac603.zip",
+      "bundle_sha256": "fc3ac603401545dac99f4137c9a968dccfff672b8c506324d7dca668c71f4349"
     }
   ],
   "created_at": "2026-05-28T17:45:17.209335100Z",
